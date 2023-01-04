@@ -1,0 +1,7 @@
+.add-to-cart-button {
+  background-color: hsl(158, 36%, 37%);
+}
+
+.add-to-cart-button:hover {
+  background-color: hsl(158, 39%, 26%);
+}
